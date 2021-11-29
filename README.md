@@ -1,7 +1,7 @@
 # SocialMedia
 
 [Version 1]
-API Rest desarrollada con .net core basada en una pequeña red social en la cual se puede obtener, insertar, actualizar, eliminar: usuarios, publicaciones y comentarios.
+API Rest desarrollada con .net core basada en una pequeña red social en la cual se puede realizar las operaciones CRUD.
 
 Prácticas utilizadas en el desarrollo de esta API:
 
