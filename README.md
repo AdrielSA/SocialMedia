@@ -6,7 +6,7 @@ API Rest desarrollada con .net core basada en una pequeña red social en la cual
 Prácticas utilizadas en el desarrollo de esta API:
 
 - Programación Orientada a Objetos.
-- Arquitectura Clean.
+- Programación Asíncrona.
 - Injección de Dependencias.
 - DTOs y AutoMapper.
 - Patrón de Repositorio.
