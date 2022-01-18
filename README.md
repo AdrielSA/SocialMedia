@@ -1,7 +1,6 @@
 # SocialMedia
 
-[Version 1]
-API Rest desarrollada con .net core basada en una pequeña red social en la cual se puede realizar las operaciones CRUD.
+[V1]
 
 Prácticas utilizadas en el desarrollo de esta API:
 
